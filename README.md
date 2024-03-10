@@ -1,19 +1,21 @@
 <h2 align="left">Hi 👋! My name is Tsung-Yu Ho and I'm a frontend engineer, from Taiwan</h2>
 
-###
+<br/>
 
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.leetcode.com/user6871ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6871ty" height="30" width="40" /></a>
 </div>
 
-# 💻 Tech Stack:
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
 </div>
 
-###
+<br/>
 
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
