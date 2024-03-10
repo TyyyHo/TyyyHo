@@ -9,12 +9,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
-</div>
-
-<br/>
-
 ## 💻 Tech Stack:
 <div align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -44,3 +38,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
 </div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
+</div>
+
+<br/>
+
+
