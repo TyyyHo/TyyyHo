@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" height="150" alt="stats graph"  />
 </div>
 
 ###
