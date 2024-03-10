@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
 </div>
 
