@@ -3,14 +3,13 @@
 ###
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://www.leetcode.com/user6871ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6871ty" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.leetcode.com/user6871ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6871ty" height="30" width="40" /></a>
+</div>
 
-###
-
+# 💻 Tech Stack:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo" alt="stats graph"  />
 </div>
 
 ###
