@@ -27,7 +27,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&theme=calm_pink" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&theme=dracula" alt="stats graph"  />
 </div>
 
 
