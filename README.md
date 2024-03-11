@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://www.leetcode.com/user6871ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6871ty" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/user6871ty" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6871ty" height="30" width="40" />
+  </a>
 </div>
 
 <br/>
