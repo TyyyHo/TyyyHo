@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Tsung-Yu Ho and I'm a frontend engineer, from Taiwan</h2>
+<h2 align="left">Hi there👋! </h2>
+<p>My name is Tsung-Yu Ho and I'm a frontend engineer from Taiwan</p>
 
 <br/>
 
