@@ -5,8 +5,8 @@
 
 ## 🌐 contact
 <div align="left">
-  <a href="https://www.leetcode.com/tyyyho" target="_blank">Something</a> |
-  <a href="https://www.leetcode.com/tyyyho" target="_blank">Leetcode</a>
+  <a href="https://www.leetcode.com/tyyyho">Something</a> |
+  <a href="https://www.leetcode.com/tyyyho">Leetcode</a>
 </div>
 
 <br/>
