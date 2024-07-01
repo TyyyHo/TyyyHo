@@ -6,10 +6,11 @@
 ## 🌐 contact
  - e-mail
    ```bash
-    npm install
+   ty.ho1126@gmail.com
    ```
 
 - Leetcode
+  <br/>
   <a href="https://www.leetcode.com/tyyyho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyyyho" height="30" width="40" /></a>
 
 
