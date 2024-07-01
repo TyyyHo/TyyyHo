@@ -5,9 +5,9 @@
 
 ## 🌐 contact
  - e-mail
-   ```bash
-   ty.ho1126@gmail.com
-   ```
+```bash
+ty.ho1126@gmail.com
+```
 
 - Leetcode
   <br/>
