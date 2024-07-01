@@ -5,7 +5,7 @@
 
 ## 🌐 contact
  - e-mail
-```bash
+```
 ty.ho1126@gmail.com
 ```
 
