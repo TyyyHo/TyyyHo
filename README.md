@@ -33,12 +33,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&theme=dracula" alt="stats graph"  />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&layout=compact&theme=dracula" alt="stats graph"  />
-
- 
 </div>
 
 
