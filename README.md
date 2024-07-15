@@ -33,13 +33,10 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&theme=dracula" alt="stats graph"  />
- 
- <br/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&hide_progress=true)
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&layout=compact" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&layout=compact&theme=dracula" alt="stats graph"  />
 
  
 </div>
