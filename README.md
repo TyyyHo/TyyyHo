@@ -1,7 +1,7 @@
 <h2 align="left">Hi there👋! </h2>
 <p>My name is Tsung-Yu Ho.</p>
 
-<p>I am currently a front-end engineer specializing in the Next and React ecosystems for web development. Experienced in developing websites related to blockchain, real-time streaming, Three.js, WebAR</p>
+<p>I am currently a front-end engineer specializing in the Next.js and React ecosystems for web development. Experienced in developing websites related to blockchain, real-time streaming, Three.js, WebAR</p>
 
 <p>I worked as a PM in my previous job, responsible for the development and sales of multiple fabric products, with extensive experience in cross-department collaboration and communication.</p>
 
